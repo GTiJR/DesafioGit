@@ -1,1 +1,17 @@
+Conte um pouco sobre você
 
+ O que você gosta de fazer nas horas vagas?
+	- Assistir series e animes e falar com as pessoas que eu gosto
+ O que te agrada numa atividade?
+ 	- A possibilidade de descobrir e aprender coisas novas na pratica
+ O que te estressa numa atividade?
+ 	- Mal planejamento e falta de vontade dos participantes
+ Por que você escolheu seu curso?
+ 	- Sempre fui muito ligado no ramo de tecnologia e acho incrivel o trabalho feito pelos profissionais da area
+-Por que você escolhei a GTi?
+ 	- Acredito que seja um bom ponto de partida pra um carreira promissora
+
+ O que você está achando do processo seletivo?
+	- Por enquanto tudo tranquilo.
+
+*** Suba no github ***
