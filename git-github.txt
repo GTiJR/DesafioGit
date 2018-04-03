@@ -1,0 +1,7 @@
+O QUE É GIT
+
+O Git é uma ferramenta utilizada por programadores para ter controle sobre as subversões do programa de uma forma segura, rápida e compartilhável.
+
+A maior vantagem do GIT em relação a outras ferramentas do gênero é a forma como ele interpreta as novas informações, pois se estas já pertencerem ao programa
+o próprio GIT desconsiderará as alterações feitas, dessa forma se tornando uma ferramenta mais eficiente no quesito de atualização de versão. O Git funciona através
+de snapshots, que são como fotos tiradas do código em determinados momentos e armazenasse. A forma de interação com os arquivos feitas pelo GIT são na maioria locais, permitindo que o código se torne mais público sem torná-lo menos seguro, pois todas as alterações no código principal precisam ser aprovadas pelo administrador do repositório.
