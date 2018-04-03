@@ -5,3 +5,9 @@ O Git é uma ferramenta utilizada por programadores para ter controle sobre as s
 A maior vantagem do GIT em relação a outras ferramentas do gênero é a forma como ele interpreta as novas informações, pois se estas já pertencerem ao programa
 o próprio GIT desconsiderará as alterações feitas, dessa forma se tornando uma ferramenta mais eficiente no quesito de atualização de versão. O Git funciona através
 de snapshots, que são como fotos tiradas do código em determinados momentos e armazenasse. A forma de interação com os arquivos feitas pelo GIT são na maioria locais, permitindo que o código se torne mais público sem torná-lo menos seguro, pois todas as alterações no código principal precisam ser aprovadas pelo administrador do repositório.
+
+O que é github
+
+O github pode ser facilmente explicado como uma rede social para programadores, onde, com a integração com ferramenta git, consegue proporcionar uma forma de programar mais colaborativa e confiável. O GitHub permite que os repositórios criados no git possam ser acessados de maneira mais fácil por outros programadores. Essa ferramenta torna-se indispensável em qualquer empresa de criação de projetos voltados ao meio computacional, uma vez que permite que o projeto seja segmentado e unido quase sem a necessidade de alterações na compatibildade dos códigos. Outra ferramenta importante do GitHub é avisar aos desenvolvedores se a versão de seu repositório está desatualizada em relação a main do projeto, dessa forma agilizando o processo, já que os programadores não necessariamente precisariam se comunicar e informar que uma nova versão foi lançada, mesmo assim, fazer isso ainda é um bom hábito.
+
+
